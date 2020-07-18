@@ -3,11 +3,11 @@
 <p align="center">
  <a href="#Resumo">Resumo</a> •
  <a href="#tecnologias">Tecnologias</a> •  
- <a href="#licenc-a">Licença</a> • 
+ <a href="#licença">Licença</a> • 
  <a href="#autor">Autor</a>
 </p>
 
-# Resumo
+## Resumo
 <p align="center"> Resolução do segundo desafio do curso de bootcamp da [Rocketseat](https://rocketseat.com.br/).
 
 Objetivo do exercicios é criar um servidor em Node em que seja possível fazer um CRUD, envolvendo repositórios do github.
@@ -33,4 +33,4 @@ This project use MIT license, see the file [LICENSE](LICENSE) for more details.
 
 Ariel Kollross
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ariel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arielkollross/)](https://www.linkedin.com/in/arielkollross/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Ariel_Kollross-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arielkollross/)](https://www.linkedin.com/in/arielkollross/) 
